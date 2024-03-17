@@ -1,15 +1,17 @@
+# Olá, Bem vindo ao meu projeto de site responsivo AluraBook!
 
-<p align="center"> <img src="https://imgur.com/Hy6t2jH.png" alt="HTML e CSS: responsividade com mobile-first"> </p>
-
-<hr>
-
-<p align="center"> <img src="https://github.com/MonicaHillman/alurabooks/blob/aula05/img/Logo.svg" alt="Logo da alura plus"> </p>
-<p align="center">Um site do e-commerce AluraBooks, uma livraria online de livros sobre tecnologia.</p>
+![1](https://github.com/kelvinmelo/site-livraria-alurabooks/assets/88505916/c6d290f9-11a2-4dcc-b12b-f1d8f53f2e7f)
+![2](https://github.com/kelvinmelo/site-livraria-alurabooks/assets/88505916/86163a80-4bc8-4199-9ed2-3553bc9ac3b2)
 
 ## Tecnologias
+
 * HTML
 * CSS
 * SwiperJS
+* Flexbox
 
-## Screenshots
-![Screenshot da tela inicial do AluraBooks](https://imgur.com/6GsjQvJ.png)
+## Feito por:
+
+### Kelvin Melo
+
+### Linkedin: https://www.linkedin.com/in/kelvin-fernando-de-melo-073ba9217/
